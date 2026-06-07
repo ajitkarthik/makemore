@@ -1,0 +1,7 @@
+# Ignore everything by default
+*
+
+# Except these files
+!makemore2.ipynb
+!names.txt
+!.gitignore
